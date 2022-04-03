@@ -1,0 +1,168 @@
+/*body{
+  background-color: #FFFDDE;
+}*/
+body{
+  margin: 0;
+  text-align: center;
+   font-family: 'Montserrat', sans-serif;
+   color: #625f5f;
+}
+.main-container
+{
+  margin-top: 0;
+  background-color: #a09aff;
+}
+p{
+  line-height: 2;
+}
+h1
+{
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+padding-top: 90px;
+  margin: 0 20px auto;
+  color: floralwhite;
+}
+h2{
+  font-size: 1.5rem;
+   font-family: 'Merriweather', serif;
+   color: #5652a2;
+}
+h3{
+   font-family: 'Merriweather', serif;
+   color: #5652a2;
+}
+.top-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.middle-container{
+  padding-top: 70px;
+  padding-bottom: 25px;
+}
+div{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 20%;
+  bottom: 50%;
+
+}
+.top-cloud{
+  position: absolute;
+  top: 7%;
+  left: 80%;
+}
+.heart
+{
+  height: 10px;
+  width:10px;
+  margin: 0 auto;
+}
+.heading{
+  color: floralwhite;
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.img1{
+
+  float:left;
+  margin-right:  40px;
+margin-bottom: 5px;
+}
+.img2{
+
+  float:right;
+  margin-left:  40px;
+
+}
+.img3{
+
+  float:left;
+  margin-right:  40px;
+
+}
+.bottom{
+  margin-top: 10px;
+  background-color: #a09aff;
+  margin-bottom: 0;
+  padding: 20px;
+  padding-bottom: 0;
+
+
+}
+.bottomp
+{
+  padding-top: 20px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  color: floralwhite;
+}
+.footer-link{
+  padding-top: 20px;
+  color: #6660da;
+  font-size: 18px;
+}
+hr{
+  border-color:  grey ;
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 2px;
+
+  width: 4%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.btn{
+  background-color: #6660da;
+
+  color: white;
+margin: 15px;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 25px;
+
+}
+.hello{
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.intro{
+  width: 40%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.bottomu{
+  width: 40%;
+  margin: 30px auto 30px;
+}
+a{
+  color: #6660da;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+a:hover{
+  color: floralwhite;
+}
+.btn:hover{
+  color: #444093;
+}
